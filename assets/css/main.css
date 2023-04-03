@@ -47,7 +47,7 @@ svg,img { max-width: 100%; height: auto; }
 .ds-social{ list-style: none; display: flex; align-items: center; flex-wrap: wrap; }
 .ds-social li{ margin-right: 34px; margin-top: 34px;}
 .ds-social li:first-child{ margin-left: 24; }
-.ds-social li a{ border-radius: 100%; color: white; width: 72px; height: 72px; background-color: #f56423; display:flex; justify-content: center; align-items: center; text-align: center; font-size: 50px; }
+.ds-social li a{ border-radius: 100%; color: white; width: 72px; height: 72px; background-color: #f56423; display:flex; justify-content: center; align-items: center; text-align: center; font-size: 36px; }
 .ds-social li a:hover{ background-color: #000; color: #FFF; }
 /*-----------------------------------------------------------------
   2. >>> Banner Style
